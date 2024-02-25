@@ -1,1 +1,1 @@
-# whiteboard-webapp
+# Whiteboard Webapp
